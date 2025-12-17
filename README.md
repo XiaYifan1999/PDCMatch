@@ -1,5 +1,5 @@
 # PDCMatch
-Probabilistic Deformation Consistency for Unsupervised Shape Matching
+Probabilistic Deformation Consistency for Unsupervised Shape Matching, AAAI-2026
 
 ## Overview
 <p align="center">
