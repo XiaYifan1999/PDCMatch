@@ -3,17 +3,17 @@ Probabilistic Deformation Consistency for Unsupervised Shape Matching
 
 ## Overview
 <p align="center">
-  <img src="figures/framework.pdf" width="900">
+  <img src="figures/framework.png" width="900">
 </p>
 
 ## Probabilistic Deformation
 <p align="center">
-  <img src="figures/illustration.pdf" width="800">
+  <img src="figures/illustration.png" width="800">
 </p>
 
 ## Qualitative Results
 <p align="center">
-  <img src="figures/qualitati.pdf" width="900">
+  <img src="figures/qualitati.png" width="900">
 </p>
 Qualitative comparisons demonstrate the effectiveness of our method under challenging scenarios.
 
