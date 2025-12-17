@@ -8,7 +8,7 @@ Probabilistic Deformation Consistency for Unsupervised Shape Matching, AAAI-2026
 
 ## Probabilistic Deformation
 <p align="center">
-  <img src="figures/illustration.png" width="800">
+  <img src="figures/illustration.png" width="600">
 </p>
 
 ## Qualitative Results
