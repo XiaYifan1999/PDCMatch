@@ -13,7 +13,7 @@ Probabilistic Deformation Consistency for Unsupervised Shape Matching
 
 ## Qualitative Results
 <p align="center">
-  <img src="figures/qualitati.png" width="900">
+  <img src="figures/qualitative.png" width="900">
 </p>
 Qualitative comparisons demonstrate the effectiveness of our method under challenging scenarios.
 
