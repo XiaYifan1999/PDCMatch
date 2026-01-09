@@ -73,7 +73,7 @@ An example of texture transfer is provided in *[texture_transfer.py](texture_tra
 ```python
 python texture_transfer.py
 ```
-if not useful
+for dataset testing
 ```python
 xvfb-run -a python visualize.py --opt options/hybrid_ulrssm/test/smal.yaml
 ```
