@@ -91,3 +91,5 @@ If you find this project useful, please cite:
   year={2026}
 }
 ```
+## Acknowledge
+The framework implementation is adapted from [Unsupervised Learning of Robust Spectral Shape Matching](https://github.com/dongliangcao/Unsupervised-Learning-of-Robust-Spectral-Shape-Matching/).
